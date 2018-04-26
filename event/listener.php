@@ -9,9 +9,9 @@
 
 namespace phpbb\camosslimageproxy\event;
 
-define('CAMO_KEY', '');
-define('ASSETS_DOMAIN', '');
-define('SITE_DOMAIN', '');
+//define('CAMO_KEY', '');
+//define('ASSETS_DOMAIN', '');
+//define('SITE_DOMAIN', '');
 
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
